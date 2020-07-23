@@ -4,18 +4,6 @@ layout: default
 [MY PROJECTS](../Projects/2020-07-22-Projects.html) &nbsp;&nbsp;[MY PUBLICATIONS](../Publication/2020-07-22-Publications.html)  &nbsp;&nbsp;   [CV](../Resume/2020-07-22-Resume.html)   &nbsp;&nbsp;  [MY HOBBIES](../Hobby/2020-07-22-Hobby.html)  &nbsp;&nbsp; [CONTACT](../about.html) 
 
 ---
-## Personal information. 
-Tadele Belay Tuli, PhD Candidate \\
-University of Siegen, \\
-57076 Siegen,Germany
-
-## Qualitification
-PhD, Mechanical Engineering, research: Human-robot collaboration, since Sept. 2017 \\
-M.Sc. Mechatronics Engineering, UNITN, Trento, Italy (2015)\\
-M.Sc. Manufacturing Engineering, ASTU, Adama, Ethiopia (2012)\\
-B.Sc. Mechanical Engineering, Bahir Dar University, Ethiopia (2008)
-
-## Publications
 
 # Journals
 Tuli, Tadele Belay; Cesarini, Andrea (2019), "Automated Unsupervised 3D Tool-Path Generation Using Stacked 2D Image Processing Technique", Journal of Manufacturing and Materials Processing Vol.3(4): 84 [doi](https://doi.org/10.3390/jmmp3040084).
@@ -29,24 +17,6 @@ Tuli, Tadele Belay (2018), "Mathematical Modeling and Dynamic Simulation of Gant
 Tuli, Tadele Belay; Manns, Martin (2019), "Hierarchical motion control for real time simulation of industrial robots", Procedia CIRP 17: 132-148 [doi](https://doi.org/10.1016/j.procir.2019.03.181).
 
 Tuli, Tadele Belay; Manns, Martin (2019), "Real-time motion tracking for humans and robots in a collaborative assembly task", Procedia MDPI [doi](https://doi.org/10.3390/ecsa-6-06636).
-
-
-# Thesis
-Coming soon
-
-# Lectures
-2008 - 2012 Engineering Mechanics II (Dynamics) (B.Sc., ASTU, Ethiopia) \\
-2015 - Computer Integrated Manufacturing (B.Sc., AAiT, AAU, Ethiopia) \\
-2016 - 2017 Introduction to Robotics and Control, Industrial Automation (B.Sc., AASTU) \\
-2018 - Automatisierteproduktionprozesse (B.Sc., Uni-Siegen, Germany) \\
-2019 - now Automation and Industrial Communication (M.Sc., Germany) \\
-2020 - now Industrial Robotics (M.Sc., Germany)
-
-# Awards
-2012 - Opera Universitaria scholarships, University of Trento, Italy \\
-2016 - Best instructor of the Electromechanical Engineering department, AASTU\\
-2016 - Merit award,University of Trento, Italy 
-
 
 
 [BACK TO HOME](../index.html)

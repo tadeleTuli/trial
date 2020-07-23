@@ -2,11 +2,12 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
-<p align="center">
- <img src="Tuli.jpg" width="280" height="300" class="center"/>
-</p>
+
+[MY PROJECTS](Projects/2020-07-22-Projects.html) &nbsp;&nbsp;[MY PUBLICATIONS](Publication/2020-07-22-Publications.html)  &nbsp;&nbsp;   [CV](Resume/2020-07-22-Resume.html)   &nbsp;&nbsp;  [MY HOBBIES](Hobby/2020-07-22-Hobby.html)  &nbsp;&nbsp; [CONTACT](about.html) 
+
+---
 
 I am a researcher in the fields of humans and robots interaction in smart and virtual environment. I am interested in solving real-time problems and challenges. Specifically, related to human motion modeling, humans and robots collaboration and interaction and object detection for industrial applications. I have project experience in Python, Matlab, and C#. I used Opencv, Unity3D, ROS and Process simulate applications during my projects.
 

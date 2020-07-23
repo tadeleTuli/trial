@@ -19,22 +19,31 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tadele Belay Tuli
-email: tademech2008@gmail.com
+logo: Tuli.png
+#description: Minimal is a theme for GitHub Pages.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+#title: Tadele Belay Tuli
+#email: tademech2008@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am an engineer, researcher and lecturer in Automation, and Human robot collaboration (c) 2020.
-baseurl: "/Home" # the subpath of your site, e.g. /blog
+  I am an engineer, researcher and lecturer of Automation, and Robotics.
+
+#baseurl: "/Home" # the subpath of your site, e.g. /blog
 url: "https://tadeletuli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: tadeleTuli
-github_username:  tadeleTuli
-linkedin_username: tt
-ORCID_ID: 354665565
-youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+#twitter_username: tadeleTuli
+#github_username:  tadeleTuli
+#linkedin_username: tt
+#researchgate_username: ttt
+#ORCID_ID: 354665565
+#youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
 
 #linkedin_username: jekyll
 
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
