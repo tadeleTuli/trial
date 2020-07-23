@@ -34,7 +34,7 @@ youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
 
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
