@@ -13,6 +13,6 @@ I am a researcher in the fields of humans and robots interaction in smart and vi
 
 Academically, I have successfully completed B.Sc. in Mechanical Engineering, M.Sc. in Manufacturing Engineering and M.Sc. in Mechtronics Engineering from different univerities in Ethiopia and Italy. Currently, I am fully engaged on doctorial research toward my Ph.D. in the University of Siegen, Germany. 
 
-In the University of Siegen, I am engaged in teaching undergraduate and graduate courses such as Industrial robotics (B.Sc. Mechanical Engineering), Automation and Industrial Communication Part II (M.Sc. Mechatronics Engineering), and Automation and Production Process (B.Sc. Mechanical), and various thesis projects.
+At the University of Siegen, I am engaged in teaching undergraduate and graduate courses such as Industrial robotics (B.Sc. Mechanical Engineering), Automation and Industrial Communication Part II (M.Sc. Mechatronics Engineering), and Automation and Production Process (B.Sc. Mechanical), and various thesis projects.
 
-In future, not limited to but I am interested more to focus on the development of human motion behavior for machines and robots collaboration using artificial intelligence techniques, as well as in virtual reality environments.
+In the future, not limited to but I am interested more to focus on the development of human motion behavior for machines and robots collaboration using artificial intelligence techniques, as well as in virtual reality environments.
