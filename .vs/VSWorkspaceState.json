@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Hobby",
+    "\\Projects",
+    "\\Publication",
+    "\\Resume",
+    "\\_layouts"
   ],
-  "SelectedNode": "\\index.markdown",
+  "SelectedNode": "\\Tuli.png",
   "PreviewInSolutionExplorer": false
 }
