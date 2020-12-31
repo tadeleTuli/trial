@@ -9,7 +9,7 @@ layout: default
 
 ---
 
-I am a researcher in the fields of humans and robots interaction in smart and virtual environment. I am interested in solving real-time problems and challenges. Specifically, related to human motion modelling, humans and robots collaboration and interaction and object detection for industrial applications. I have project experience in Python, Matlab, and C#. I used Opencv, Unity3D, ROS and Process simulate applications during my projects.
+I am a researcher in the fields of humans and robots interaction in smart and virtual environment. I am interested in solving real-time problems and challenges. Specifically, related to human motion modelling, humans and robots collaboration and interaction and object detection for industrial applications. I have project experience in Python, Matlab, and C#. I used OpenCV, Unity3D, ROS and Process simulate applications during my projects.
 
 Academically, I have successfully completed B.Sc. in Mechanical Engineering, M.Sc. in Manufacturing Engineering and M.Sc. in Mechatronics Engineering from different universities in Ethiopia and Italy. Currently, I am fully engaged on doctoral research toward my Ph.D. in the University of Siegen, Germany.
 
