@@ -10,7 +10,11 @@ Tuli, Tadele Belay; Cesarini, Andrea (2019), "Automated Unsupervised 3D Tool-Pat
 
 Terefe, T. O., Lemu, H. G., K/Mariam, A., Tuli, T. B. (2019). "Kinematic Modeling and Analysis of a Walking Machine (Robot) Leg Mechanism on a Rough Terrain", Advances in Science and Technology Research Journal, 13(3), 43-53 [doi](https://doi.org/10.12913/22998624/109792).
 
-Tuli, Tadele Belay; Terefe, Tesfaye Olana, Ur Rashid, Md Mamun (2020), "Telepresence Mobile Robots Design and Control for Social Interaction", Int J of Soc Robotics [doi](https://doi.org/10.1007/s12369-020-00676-3).
+Tuli, Tadele Belay, Terefe, Tesfaye Olana, Ur Rashid, Md Mamun (2020), "Telepresence Mobile Robots Design and Control for Social Interaction", Int J of Soc Robotics [doi](https://doi.org/10.1007/s12369-020-00676-3).
+
+Reuter,Jonas, \textbf{Tuli,Tadele Belay}, Manns,Martin and Engel,Bernd(2020), "Roboterunterst{\"u}tztes Biegen von Verbundrohren", \emph{BD 162 NR.12 P.49--51} 
+
+Frohn-Sörensen, P., Geueke, M., \textbf{Tuli, T. B}., Kuhnhen, C., Manns, M., \& Engel, B. (2020, December 14)., "3D printed prototyping tools for flexible sheet metal drawing", \emph{Under review} [doi](https://doi.org/10.31224/osf.io/w8rgb).
 
 # Conferences
 
