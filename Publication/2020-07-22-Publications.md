@@ -12,7 +12,7 @@ Terefe, T. O., Lemu, H. G., K/Mariam, A., **Tuli, T. B.** (2019). "Kinematic Mod
 
 **Tuli, Tadele Belay**, Terefe, Tesfaye Olana, Ur Rashid, Md Mamun (2020), "Telepresence Mobile Robots Design and Control for Social Interaction", Int J of Soc Robotics [doi](https://doi.org/10.1007/s12369-020-00676-3).
 
-Reuter,Jonas, **Tuli,Tadele Belay**, Manns,Martin and Engel,Bernd(2020), "Roboterunterstütztes Biegen von Verbundrohren", *BD 162 NR.12 P.49--51* 
+Reuter,Jonas, **Tuli,Tadele Belay**, Manns,Martin and Engel,Bernd(2020), "Roboterunterstütztes Biegen von Verbundrohren", *VDI-Z, Volume 162 (2020), Issue 12, ISSN: 0042-1766, ISSN online: 0042-1766,* [doi](https://doi.org/10.37544/0042-1766-2020-12-49)
 
 Frohn-Sörensen, P., Geueke, M., **Tuli, T. B**., Kuhnhen, C., Manns, M., \& Engel, B. (2020, December 14)., "3D printed prototyping tools for flexible sheet metal drawing", *Under review* [doi](https://doi.org/10.31224/osf.io/w8rgb).
 
