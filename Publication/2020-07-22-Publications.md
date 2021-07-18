@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[MY PROJECTS](../Projects/2020-07-22-Projects.html) &nbsp;&nbsp;[MY PUBLICATIONS](../Publication/2020-07-22-Publications.html)  &nbsp;&nbsp;   [CV](../Resume/2020-07-22-Resume.html)   &nbsp;&nbsp;  [MY HOBBIES](../Hobby/2020-07-22-Hobby.html)  &nbsp;&nbsp; [CONTACT](../about.html) 
+[MY PROJECTS](../Projects/2020-07-22-Projects.html) &nbsp;&nbsp;[MY PUBLICATIONS](../Publication/2020-07-22-Publications.html)  &nbsp;&nbsp;   [CV](../Resume/2020-07-22-Resume.html)   &nbsp;&nbsp;  [MY HOBBIES](../Hobby/2020-07-22-Hobby.html)  &nbsp;&nbsp; [CONTACT](../about.html)
 
 ---
 
@@ -14,7 +14,9 @@ Terefe, T. O., Lemu, H. G., K/Mariam, A., **Tuli, T. B.** (2019). "Kinematic Mod
 
 Reuter,Jonas, **Tuli,Tadele Belay**, Manns,Martin and Engel,Bernd(2020), "Roboterunterstütztes Biegen von Verbundrohren", *VDI-Z, Volume 162 (2020), Issue 12, ISSN: 0042-1766, ISSN online: 0042-1766,* [doi](https://doi.org/10.37544/0042-1766-2020-12-49)
 
-Frohn-Sörensen, P., Geueke, M., **Tuli, T. B**., Kuhnhen, C., Manns, M., \& Engel, B. (2020, December 14)., "3D printed prototyping tools for flexible sheet metal drawing", *Under review* [doi](https://doi.org/10.31224/osf.io/w8rgb).
+Jonek, M., Manns, M., and **Tuli, T.B.**, 2021. Virtuelle Montageplanung mit Motion Capture Systemen/Virtual assembly planning with motion capture systems. wt Werkstattstechnik online, 111 (04), 256–259. 04 [doi](doi.org/10.37544/1436-4980-2021-04-78)
+
+Frohn-Sörensen, P., Geueke, M., **Tuli, T. B**., Kuhnhen, C., Manns, M., \& Engel, B., 2021., "3D printed prototyping tools for flexible sheet metal drawing", Int J Adv Manuf Technol 115, 2623–2637 [doi](https://doi.org/10.1007/s00170-021-07312-y).
 
 # Conference proceedings
 
