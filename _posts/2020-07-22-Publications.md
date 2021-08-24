@@ -1,8 +1,10 @@
 ---
-layout: default
----
-[MY PROJECTS](../Projects/2020-07-22-Projects.html) &nbsp;&nbsp;[MY PUBLICATIONS](../Publication/2020-07-22-Publications.html)  &nbsp;&nbsp;   [CV](../Resume/2020-07-22-Resume.html)   &nbsp;&nbsp;  [MY HOBBIES](../Hobby/2020-07-22-Hobby.html)  &nbsp;&nbsp; [CONTACT](../about.html)
-
+layout: post
+title: Publications
+date: 2020-09-12 00:00:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: ../img/publication.jpg # Add image post (optional)
+tags: [Robotics, 3D printing, Human robot collaboration] # add tag
 ---
 
 # Journal articles
@@ -25,6 +27,18 @@ Frohn-Sörensen, P., Geueke, M., **Tuli, T. B**., Kuhnhen, C., Manns, M., \& Eng
 **Tuli, Tadele Belay**; Manns, Martin (2019), "Hierarchical motion control for real time simulation of industrial robots", Procedia CIRP 17: 132-148 [doi](https://doi.org/10.1016/j.procir.2019.03.181).
 
 **Tuli, Tadele Belay**; Manns, Martin (2019), "Real-time motion tracking for humans and robots in a collaborative assembly task", Procedia MDPI [doi](https://doi.org/10.3390/ecsa-6-06636).
+
+Manns, M., **Tuli, T.B.**, and Schreiber, F., 2021. Identifying human intention during assembly operations using wearable motion capturing systems including eye focus. In: Procedia CIRP 00 (2021) 000–000 (accepted paper). Athens, Greece: Elsevier B.V.
+
+**Tuli, T.B.**, Manns, M., Zöller, C., and Klein, D., 2021. Path planning for simulating human motions in manual assembly operations. In: Procedia CIRP 00 (2021) 000–000 (accepted paper). Athens, Greece: Elsevier B.V.
+
+**Tuli, T.B.**, Kohl, L., Chala, S.A., Manns, M., and Ansari, F., 2021. Knowledge-Based Digital Twin for Predicting Interactions in Human-Robot Collaboration. In: 2021 26th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA) (accepted paper). Västerås, Sweden.
+
+**Tuli, T.B.** and Manns, M., 2021. Comparison of AI-based task planning approaches for simulating human-robot collaboration. In: Lecture Notes in Mechanical Engineering(accepted paper). Aalborg, Denmark: Springer Nature Switzerland AG.
+
+**Tuli, T.B.**, Manns, M., and Jonek, M., 2021. Understanding shared autonomy of collaborative humans using motion capture system for simulating team assembly. In: Lecture Notes in Mechanical Engineering(accepted paper). Aalborg, Denmark: Springer Nature Switzerland AG.
+
+Jonek, M., **Tuli, T.B.**, and Manns, M., 2021. Constraints for motion generation in work planning with digital human simulations. In: Lecture Notes in Mechanical Engineering (accepted paper). Aalborg, Denmark: Springer Nature Switzerland AG.
 
 # Books or Thesis
 

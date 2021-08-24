@@ -1,68 +1,40 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: Hello, world! I'm Tadele Belay TULI
+description: > # this means to ignore newlines until "baseurl:"
+  I am a researcher in the fields of humans and robots interaction in smart and virtual environment. I am interested in solving real-time problems and challenges. 
+  Specifically, related to human motion modelling, humans and robots collaboration and interaction and object detection for industrial applications. I have project experience in Python, Matlab, and C#. I used OpenCV, Unity3D, ROS and Process simulate applications during my projects.
+  Academically, I have successfully completed B.Sc. in Mechanical Engineering, M.Sc. in Manufacturing Engineering and M.Sc. in Mechatronics Engineering from different universities in Ethiopia and Italy. Currently, I am fully engaged on doctoral research toward my Ph.D. in the University of Siegen, Germany.At the University of Siegen, I am engaged in teaching undergraduate and graduate courses such as Industrial robotics (B.Sc. Mechanical Engineering), Automation and Industrial Communication Part II (M.Sc. Mechatronics Engineering), and Automation and Production Process (B.Sc. Mechanical), and various thesis projects.In the future, not limited to but I am interested more to focus on the development of human motion behaviour for machines and robots collaboration using artificial intelligence techniques, as well as in virtual reality environments.
 
-title: Tadele Belay Tuli
-logo: Tuli.png
-#description: Minimal is a theme for GitHub Pages.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-architect
+permalink: ':title/'
+baseurl: "https://tadeletuli.github.io" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: TadeleTuli #if your site has a twitter account, enter it here
 
-#title: Tadele Belay Tuli
-#email: tademech2008@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I am an engineer, researcher and lecturer of Automation, and Robotics.
+# Author Settings
+author: Tadele Belay TULI # add your name
+author-img: Tuli.jpg # add your photo
+about-author: I am an engineer, researcher and lecturer in Automation, Robotics and Human motion field.  # add description
+social-twitter: tadeleTuli # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: TadeleTuli # add your Github handle
+social-linkedin: tadele-belay-tuli-76322258 # add your Linkedin handle
+academic-orcid: Tadele Belay Tuli # add your ORCID ID
+academic-scholar: citations?user=1E7yz60AAAAJ&hl=en # add your google scholar ID
+academic-publons: tadele-belay-tuli # add your Publon ID
+academic-researchgate: Tadele_Tuli #Add your researchgate ID
+# Disqus
+#discus-identifier: mr-tuli # add your discus identifier
 
-#baseurl: "/Home" # the subpath of your site, e.g. /blog
-url: "https://tadeletuli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: tadeleTuli
-#github_username:  tadeleTuli
-#linkedin_username: tt
-#researchgate_username: ttt
-#ORCID_ID: 354665565
-#youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+# Tracker
+analytics: 3I5qQvWaUBirDQViCSycRs91-x1Yr1YRI-oSewLLuX8 # Google Analytics
 
-#linkedin_username: jekyll
-
-
-# Build settings
-theme: jekyll-theme-minimal
+# Build Settings
+markdown: kramdown
 plugins:
-  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
