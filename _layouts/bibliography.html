@@ -1,0 +1,13 @@
+---
+---
+
+{{ reference | replace_first: 'Tuli, T. B.', '<b style="color:DodgerBlue;">Tuli, T. B.</b>' }}
+
+{% if entry.doi %}
+ (<a href="https://www.doi.org/{{entry.doi}}" target="blank">DOI</a>)
+{% endif %}
+
+{% if entry.abstract %}
+<p style="color:Gray;"><i>{{ entry.abstract }}<i></p>
+{% endif %}
+

@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Academically, I have successfully completed B.Sc. in Mechanical Engineering, M.Sc. in Manufacturing Engineering and M.Sc. in Mechatronics Engineering from different universities in Ethiopia and Italy. Currently, I am fully engaged on doctoral research toward my Ph.D. in the University of Siegen, Germany.At the University of Siegen, I am engaged in teaching undergraduate and graduate courses such as Industrial robotics (B.Sc. Mechanical Engineering), Automation and Industrial Communication Part II (M.Sc. Mechatronics Engineering), and Automation and Production Process (B.Sc. Mechanical), and various thesis projects.In the future, not limited to but I am interested more to focus on the development of human motion behaviour for machines and robots collaboration using artificial intelligence techniques, as well as in virtual reality environments.
 
 permalink: ':title/'
-baseurl: "https://tadeletuli.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tadeletuli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: TadeleTuli #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -33,6 +33,28 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
+  - jekyll/scholar
+
+require: 'jekyll/scholar'
+
+scholar:
+  style: 
+  locale: en
+
+  sort_by: none
+  order: descending
+  type_order: [misc, patent, techreport, thesis, book, inbook, inproceedings, article]
+
+  source: _bibliography
+  bibliography: MyPublications.bib
+
+  details_dir: bibliography
+  bibliography_template: bibliography
+ 
+ 
+
+  query: "@*"  
+
 
 paginate: 8
 paginate_path: "/page/:num"
