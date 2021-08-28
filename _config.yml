@@ -37,6 +37,8 @@ plugins:
 
 require: 'jekyll/scholar'
 
+future: true
+
 scholar:
   style: 
   locale: en
